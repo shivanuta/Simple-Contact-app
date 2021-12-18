@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Contacts</string>
+    <string name="add">Add Contact</string>
+    <string name="update">Update Contact</string>
+    <string name="delete">Delete Contact</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Contacts Details</string>
+</resources>
